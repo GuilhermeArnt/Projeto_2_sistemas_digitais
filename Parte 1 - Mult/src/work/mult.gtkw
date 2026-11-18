@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.127 (w)1999-2026 BSI
+[*] Thu Oct 29 00:38:22 2026
+[*]
+[dumpfile] "E:\Facul\UFSM\6 semestre\Projeto de Sistemas Digitais\Trabalho 2\Mult\src\work\mult.ghw"
+[dumpfile_mtime] "Thu Oct 29 00:17:48 2026"
+[dumpfile_size] 18579213
+[savefile] "E:\Facul\UFSM\6 semestre\Projeto de Sistemas Digitais\Trabalho 2\Mult\src\work\mult.gtkw"
+[timestart] 0
+[size] 1286 600
+[pos] -1 -1
+*-27.489071 394600000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.multiplicador_booth_tb.
+[sst_width] 246
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+top.multiplicador_booth_tb.clk
+top.multiplicador_booth_tb.rst
+top.multiplicador_booth_tb.ready
+top.multiplicador_booth_tb.start
+top.multiplicador_booth_tb.done
+@420
+#{top.multiplicador_booth_tb.a[7:0]} top.multiplicador_booth_tb.a[7] top.multiplicador_booth_tb.a[6] top.multiplicador_booth_tb.a[5] top.multiplicador_booth_tb.a[4] top.multiplicador_booth_tb.a[3] top.multiplicador_booth_tb.a[2] top.multiplicador_booth_tb.a[1] top.multiplicador_booth_tb.a[0]
+@421
+#{top.multiplicador_booth_tb.b[7:0]} top.multiplicador_booth_tb.b[7] top.multiplicador_booth_tb.b[6] top.multiplicador_booth_tb.b[5] top.multiplicador_booth_tb.b[4] top.multiplicador_booth_tb.b[3] top.multiplicador_booth_tb.b[2] top.multiplicador_booth_tb.b[1] top.multiplicador_booth_tb.b[0]
+@420
+#{top.multiplicador_booth_tb.p[15:0]} top.multiplicador_booth_tb.p[15] top.multiplicador_booth_tb.p[14] top.multiplicador_booth_tb.p[13] top.multiplicador_booth_tb.p[12] top.multiplicador_booth_tb.p[11] top.multiplicador_booth_tb.p[10] top.multiplicador_booth_tb.p[9] top.multiplicador_booth_tb.p[8] top.multiplicador_booth_tb.p[7] top.multiplicador_booth_tb.p[6] top.multiplicador_booth_tb.p[5] top.multiplicador_booth_tb.p[4] top.multiplicador_booth_tb.p[3] top.multiplicador_booth_tb.p[2] top.multiplicador_booth_tb.p[1] top.multiplicador_booth_tb.p[0]
+[pattern_trace] 1
+[pattern_trace] 0

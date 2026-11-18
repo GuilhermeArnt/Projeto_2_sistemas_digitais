@@ -38,7 +38,7 @@ begin
       saida   => dado_bin
     );
 
-  -- 2. Conversor Binário (16 bits com sinal) para BCD (5 dígitos)
+  -- 2. Conversor Binário (16 bits com sinal) para BCD (4 dígitos)
   U_CONV_BCD: entity work.conversor_bin_to_BCD
     port map (
       clk   => clk,

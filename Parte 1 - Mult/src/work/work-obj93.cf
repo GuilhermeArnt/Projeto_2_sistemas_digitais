@@ -1,0 +1,13 @@
+v 4
+file "E:\Facul\UFSM\6 semestre\Projeto de Sistemas Digitais\Trabalho 2\Mult\src\" "multiplicador_booth.vhd" "0ca1a10e791594b5e657d8be59b6ddd34cae41e7" "20261029012337.467":
+  entity multiplicador_booth at 1( 0) + 0 on 17;
+  architecture rtl of multiplicador_booth at 21( 907) + 0 on 18;
+file "E:\Facul\UFSM\6 semestre\Projeto de Sistemas Digitais\Trabalho 2\Mult\src\" "multiplicador_booth_controle.vhd" "368a5503515fe970f4c3e6c59b91462bcb7be9c5" "20261029012337.467":
+  entity multiplicador_booth_controle at 1( 0) + 0 on 13;
+  architecture rtl of multiplicador_booth_controle at 23( 538) + 0 on 14;
+file "E:\Facul\UFSM\6 semestre\Projeto de Sistemas Digitais\Trabalho 2\Mult\src\" "multiplicador_booth_datapath.vhd" "de81563f608360b6c1827b76a8794290b49ef7a3" "20261029012337.467":
+  entity multiplicador_booth_datapath at 1( 0) + 0 on 15;
+  architecture rtl of multiplicador_booth_datapath at 24( 643) + 0 on 16;
+file "E:\Facul\UFSM\6 semestre\Projeto de Sistemas Digitais\Trabalho 2\Mult\src\" "multiplicador_booth_tb.vhd" "60ab33b1f6baa1703a0a692570fe696d53ee3530" "20261029012337.467":
+  entity multiplicador_booth_tb at 1( 0) + 0 on 11;
+  architecture multiplicador_booth_tb of multiplicador_booth_tb at 8( 116) + 0 on 12;

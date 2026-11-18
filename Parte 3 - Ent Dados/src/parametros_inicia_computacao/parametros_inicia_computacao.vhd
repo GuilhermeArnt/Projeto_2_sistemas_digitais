@@ -51,6 +51,6 @@ begin
       clr       => clr
     );
 
-  selecao <= en_mcador & en_mcando;
+  selecao <= en_mcando & en_mcador;
 
 end architecture;
