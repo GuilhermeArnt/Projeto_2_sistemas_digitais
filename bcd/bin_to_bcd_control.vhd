@@ -39,7 +39,7 @@ begin
 
 
 -- Controle do proximo estado
-  gera_proximo_estado : process (estado_atual, start, iter)
+  gera_proximo_estado : process (estado_atual, start, done_counting)
     begin 
       case estado_atual is 
         when ST_IDLE =>
