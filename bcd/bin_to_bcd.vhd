@@ -30,8 +30,7 @@ begin
 
   U1_bin_to_bcd_datapath : entity work.bin_to_bcd_datapath
     generic map (
-      N_BITS   => N_BITS,
-      N_DIGITS => N_DIGITS
+      N_BITS   => N_BITS
     )
     port map (
       bits_in        => bits_in,
@@ -41,7 +40,6 @@ begin
       ctrl_shift     => ctrl_shift,
       done_counting  => done_counting,
       minus          => minus,
-      done           => done,
       clk            => clk,
       rst            => rst
     );
