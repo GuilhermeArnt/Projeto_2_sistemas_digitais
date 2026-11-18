@@ -1,0 +1,13 @@
+v 4
+file "C:\UFSM\6° semestre\sistemasdigitais\Trabalho 2\BCD\src\" "bin_to_bcd_tb.vhd" "df6b34e54ab44c8e18033913bd291c1a8df23702" "20261118014415.391":
+  entity bin_to_bcd_tb at 1( 0) + 0 on 17;
+  architecture behavioral of bin_to_bcd_tb at 8( 231) + 0 on 18;
+file "C:\UFSM\6° semestre\sistemasdigitais\Trabalho 2\BCD\src\" "bin_to_bcd.vhd" "8d2282d5388baa442649fcdcd2903eba1e58562b" "20261118014415.391":
+  entity bin_to_bcd at 1( 0) + 0 on 15;
+  architecture structural of bin_to_bcd at 21( 857) + 0 on 16;
+file "C:\UFSM\6° semestre\sistemasdigitais\Trabalho 2\BCD\src\" "bin_to_bcd_control.vhd" "254917d96285af0ba513e1dcf9f7bfafa7e22979" "20261118014415.390":
+  entity bin_to_bcd_control at 1( 0) + 0 on 13;
+  architecture behavior of bin_to_bcd_control at 23( 972) + 0 on 14;
+file "C:\UFSM\6° semestre\sistemasdigitais\Trabalho 2\BCD\src\" "bin_to_bcd_datapath.vhd" "0514fc666e9fed9463ef0cc193a53c5d5e836987" "20261118014415.389":
+  entity bin_to_bcd_datapath at 1( 0) + 0 on 11;
+  architecture rtl of bin_to_bcd_datapath at 22( 610) + 0 on 12;
